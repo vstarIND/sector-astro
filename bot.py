@@ -5,7 +5,7 @@ import asyncio
 import datetime
 from discord.ext import commands
 
-TOKEN = "MTMzNDE5NjAwNDExOTEyMTk2MQ.GV000x.rgA-VCRvC4d-TNOPZhE4q-KYBAUEkgwhLsm1qg"
+TOKEN = ""
 CHANNEL_ID = 1353797313067221055
 
 intents = discord.Intents.default()
